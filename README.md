@@ -15,9 +15,9 @@ export PATH=$PATH:/Users/your_user_name/Downloads/sratoolkit.2.6.3-mac64/bin/
 
 INSTALLING SPAdes: 
 
-1. Install SPAdes using this link: Download SPAdes binaries for MacOS
+1. Install SPAdes using this link: https://cab.spbu.ru/software/spades/ and click the link: Download SPAdes binaries for MacOS
 2. Click on the downloaded file to unzip the archive, which will release a file called “SPAdes-3.15.4-Darwin”.
 
-NOTE: When running this code, errors may arise when utilizing the tools. The error may say “move to trash” or “cancel”. This will stop running the program. Please go into settings on your Mac—> Security and Privacy—> and then press “Allow Anyway”. You may need to do this a couple times to allow the different programs to run. DO NOT press “move to trash”. 
+NOTE: When running this code, errors may arise when utilizing the tools. The error may say “move to trash” or “cancel”. This will stop running the program. Please go into settings on your Mac—> Security and Privacy—> and then press “Allow Anyway”. You may need to do this a couple times to allow the different programs to run. DO NOT press “move to trash”. 
 
 Solutions to issues that may arise when running this code are explained as comments under the commands
