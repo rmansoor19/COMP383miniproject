@@ -1,0 +1,6 @@
+SPAdes Command: /Users/rmansoor/Downloads/SPAdes-3.15.4-Darwin/bin/spades.py -k 55,77,99,127 -t 2 --only-assembler -s /Users/rmansoor/Downloads/results/SRR8185310.fastq -o /Users/rmansoor/Downloads/results 
+
+There are 150 contigs > 1000 in the assembly. 
+ 
+There are 4535677 bp in the assembly. 
+ 
